@@ -1,0 +1,19 @@
+package Abstraction;
+
+public class salary extends Employee{
+	double Salary;
+
+	salary(String name, String address, int number) {
+		super(name, address, number);
+		this.Salary=Salary;
+		// TODO Auto-generated constructor stub
+	}public void setSalary(double Salary) {
+		if (Salary>=0.0) {
+			this.Salary=Salary;
+		}
+	}
+
+	
+	
+
+}

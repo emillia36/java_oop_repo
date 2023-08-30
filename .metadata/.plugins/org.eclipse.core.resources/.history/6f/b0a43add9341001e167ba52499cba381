@@ -1,0 +1,12 @@
+package Abstraction;
+
+public class Salary  extends Employee{
+
+	@Override
+	public void ComputePay() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+
+}
